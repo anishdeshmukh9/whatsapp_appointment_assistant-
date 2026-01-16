@@ -15,10 +15,7 @@ The entire system is modeled as a **Directed Acyclic Graph (DAG)** using LangGra
 
 ## Video Demo
 
-<!-- Replace VIDEO_ID with your actual YouTube video ID -->
-<!-- For MP4 files in your repo, use: <video src="path/to/demo.mp4" controls></video> -->
-
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the demo](https://img.youtube.com/vi/tMOti8GUmec/maxresdefault.jpg)](https://youtu.be/tMOti8GUmec)
 
 ---
 
